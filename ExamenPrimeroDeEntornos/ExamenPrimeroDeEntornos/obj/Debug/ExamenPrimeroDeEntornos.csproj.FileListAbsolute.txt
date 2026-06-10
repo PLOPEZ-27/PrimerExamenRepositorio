@@ -1,0 +1,10 @@
+C:\Users\bryan\OneDrive\Escritorio\Entornos visuales GitHub\Primer Examen Entornos\PrimerExamenRepositorio\ExamenPrimeroDeEntornos\ExamenPrimeroDeEntornos\bin\Debug\ExamenPrimeroDeEntornos.exe.config
+C:\Users\bryan\OneDrive\Escritorio\Entornos visuales GitHub\Primer Examen Entornos\PrimerExamenRepositorio\ExamenPrimeroDeEntornos\ExamenPrimeroDeEntornos\bin\Debug\ExamenPrimeroDeEntornos.exe
+C:\Users\bryan\OneDrive\Escritorio\Entornos visuales GitHub\Primer Examen Entornos\PrimerExamenRepositorio\ExamenPrimeroDeEntornos\ExamenPrimeroDeEntornos\bin\Debug\ExamenPrimeroDeEntornos.pdb
+C:\Users\bryan\OneDrive\Escritorio\Entornos visuales GitHub\Primer Examen Entornos\PrimerExamenRepositorio\ExamenPrimeroDeEntornos\ExamenPrimeroDeEntornos\obj\Debug\ExamenPrimeroDeEntornos.csproj.AssemblyReference.cache
+C:\Users\bryan\OneDrive\Escritorio\Entornos visuales GitHub\Primer Examen Entornos\PrimerExamenRepositorio\ExamenPrimeroDeEntornos\ExamenPrimeroDeEntornos\obj\Debug\ExamenPrimeroDeEntornos.Form1.resources
+C:\Users\bryan\OneDrive\Escritorio\Entornos visuales GitHub\Primer Examen Entornos\PrimerExamenRepositorio\ExamenPrimeroDeEntornos\ExamenPrimeroDeEntornos\obj\Debug\ExamenPrimeroDeEntornos.Properties.Resources.resources
+C:\Users\bryan\OneDrive\Escritorio\Entornos visuales GitHub\Primer Examen Entornos\PrimerExamenRepositorio\ExamenPrimeroDeEntornos\ExamenPrimeroDeEntornos\obj\Debug\ExamenPrimeroDeEntornos.csproj.GenerateResource.cache
+C:\Users\bryan\OneDrive\Escritorio\Entornos visuales GitHub\Primer Examen Entornos\PrimerExamenRepositorio\ExamenPrimeroDeEntornos\ExamenPrimeroDeEntornos\obj\Debug\ExamenPrimeroDeEntornos.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Escritorio\Entornos visuales GitHub\Primer Examen Entornos\PrimerExamenRepositorio\ExamenPrimeroDeEntornos\ExamenPrimeroDeEntornos\obj\Debug\ExamenPrimeroDeEntornos.exe
+C:\Users\bryan\OneDrive\Escritorio\Entornos visuales GitHub\Primer Examen Entornos\PrimerExamenRepositorio\ExamenPrimeroDeEntornos\ExamenPrimeroDeEntornos\obj\Debug\ExamenPrimeroDeEntornos.pdb

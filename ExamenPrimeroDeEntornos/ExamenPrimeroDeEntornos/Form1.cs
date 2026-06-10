@@ -21,5 +21,38 @@ namespace ExamenPrimeroDeEntornos
         {
 
         }
+
+        private void btnVerResumen_Click(object sender, EventArgs e)
+        {
+            if (txtNombre.Text == string.Empty)
+            {
+                MessageBox.Show("ERROR. no hay ningun nombre registrado");
+            }
+            else if (txtIdentidad.Text == string.Empty)
+            {
+                MessageBox.Show("ERROR. no hay ningun DNI registrado");
+            }
+            else if (txtTelefono.Text == string.Empty)
+            {
+                MessageBox.Show("ERROR. no hay ningun Numero de telefono registrado");
+            }
+            else if (cbmVehiculo.Text == string.Empty)
+            {
+                MessageBox.Show("ERROR. no hay ningun vehiuclo registrado");
+            }
+        }
+
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            txtNombre.Text = string.Empty;
+            txtIdentidad.Text = string.Empty;
+            txtTelefono.Text = string.Empty;
+            cbmVehiculo.Text = string.Empty;
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

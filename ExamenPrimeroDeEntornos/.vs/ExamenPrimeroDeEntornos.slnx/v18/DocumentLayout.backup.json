@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\bryan\\OneDrive\\Escritorio\\Entornos visuales GitHub\\Primer Examen Entornos\\PrimerExamenRepositorio\\ExamenPrimeroDeEntornos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEE7578D-1AA5-4C91-8F5C-0B746223B010}|ExamenPrimeroDeEntornos\\ExamenPrimeroDeEntornos.csproj|c:\\users\\bryan\\onedrive\\escritorio\\entornos visuales github\\primer examen entornos\\primerexamenrepositorio\\examenprimerodeentornos\\examenprimerodeentornos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BEE7578D-1AA5-4C91-8F5C-0B746223B010}|ExamenPrimeroDeEntornos\\ExamenPrimeroDeEntornos.csproj|C:\\Users\\bryan\\OneDrive\\Escritorio\\Entornos visuales GitHub\\Primer Examen Entornos\\PrimerExamenRepositorio\\ExamenPrimeroDeEntornos\\examenprimerodeentornos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BEE7578D-1AA5-4C91-8F5C-0B746223B010}|ExamenPrimeroDeEntornos\\ExamenPrimeroDeEntornos.csproj|solutionrelative:examenprimerodeentornos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE7578D-1AA5-4C91-8F5C-0B746223B010}|ExamenPrimeroDeEntornos\\ExamenPrimeroDeEntornos.csproj|c:\\users\\bryan\\onedrive\\escritorio\\entornos visuales github\\primer examen entornos\\primerexamenrepositorio\\examenprimerodeentornos\\examenprimerodeentornos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE7578D-1AA5-4C91-8F5C-0B746223B010}|ExamenPrimeroDeEntornos\\ExamenPrimeroDeEntornos.csproj|solutionrelative:examenprimerodeentornos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Escritorio\\Entornos visuales GitHub\\Primer Examen Entornos\\PrimerExamenRepositorio\\ExamenPrimeroDeEntornos\\ExamenPrimeroDeEntornos\\Form1.cs",
+              "RelativeDocumentMoniker": "ExamenPrimeroDeEntornos\\Form1.cs",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Escritorio\\Entornos visuales GitHub\\Primer Examen Entornos\\PrimerExamenRepositorio\\ExamenPrimeroDeEntornos\\ExamenPrimeroDeEntornos\\Form1.cs",
+              "RelativeToolTip": "ExamenPrimeroDeEntornos\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T15:49:50.253Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
