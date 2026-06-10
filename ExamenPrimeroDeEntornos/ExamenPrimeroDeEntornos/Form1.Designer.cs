@@ -41,6 +41,15 @@
             this.btnLimpiar = new System.Windows.Forms.Button();
             this.btnSalir = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.lbRespuestaNombre = new System.Windows.Forms.Label();
+            this.lbRespuestaDni = new System.Windows.Forms.Label();
+            this.lbRespuestaTelefono = new System.Windows.Forms.Label();
+            this.lbRespuestaVehiculo = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -170,11 +179,102 @@
             this.pictureBox1.TabIndex = 12;
             this.pictureBox1.TabStop = false;
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Bernard MT Condensed", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(700, 21);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(86, 36);
+            this.label2.TabIndex = 13;
+            this.label2.Text = "DATOS";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Bernard MT Condensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(630, 89);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(75, 24);
+            this.label6.TabIndex = 14;
+            this.label6.Text = "Nombre:";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Bernard MT Condensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(630, 140);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(41, 24);
+            this.label7.TabIndex = 15;
+            this.label7.Text = "Dni:";
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Bernard MT Condensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(633, 189);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(82, 24);
+            this.label8.TabIndex = 16;
+            this.label8.Text = "Telefono:";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Bernard MT Condensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.Location = new System.Drawing.Point(633, 237);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(82, 24);
+            this.label9.TabIndex = 17;
+            this.label9.Text = "Vehiculo:";
+            // 
+            // lbRespuestaNombre
+            // 
+            this.lbRespuestaNombre.AutoSize = true;
+            this.lbRespuestaNombre.Location = new System.Drawing.Point(726, 89);
+            this.lbRespuestaNombre.Name = "lbRespuestaNombre";
+            this.lbRespuestaNombre.Size = new System.Drawing.Size(0, 16);
+            this.lbRespuestaNombre.TabIndex = 18;
+            // 
+            // lbRespuestaDni
+            // 
+            this.lbRespuestaDni.AutoSize = true;
+            this.lbRespuestaDni.Location = new System.Drawing.Point(690, 147);
+            this.lbRespuestaDni.Name = "lbRespuestaDni";
+            this.lbRespuestaDni.Size = new System.Drawing.Size(0, 16);
+            this.lbRespuestaDni.TabIndex = 19;
+            // 
+            // lbRespuestaTelefono
+            // 
+            this.lbRespuestaTelefono.AutoSize = true;
+            this.lbRespuestaTelefono.Location = new System.Drawing.Point(729, 197);
+            this.lbRespuestaTelefono.Name = "lbRespuestaTelefono";
+            this.lbRespuestaTelefono.Size = new System.Drawing.Size(0, 16);
+            this.lbRespuestaTelefono.TabIndex = 20;
+            // 
+            // lbRespuestaVehiculo
+            // 
+            this.lbRespuestaVehiculo.AutoSize = true;
+            this.lbRespuestaVehiculo.Location = new System.Drawing.Point(729, 244);
+            this.lbRespuestaVehiculo.Name = "lbRespuestaVehiculo";
+            this.lbRespuestaVehiculo.Size = new System.Drawing.Size(0, 16);
+            this.lbRespuestaVehiculo.TabIndex = 21;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 581);
+            this.ClientSize = new System.Drawing.Size(1057, 581);
+            this.Controls.Add(this.lbRespuestaVehiculo);
+            this.Controls.Add(this.lbRespuestaTelefono);
+            this.Controls.Add(this.lbRespuestaDni);
+            this.Controls.Add(this.lbRespuestaNombre);
+            this.Controls.Add(this.label9);
+            this.Controls.Add(this.label8);
+            this.Controls.Add(this.label7);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.btnLimpiar);
@@ -212,6 +312,15 @@
         private System.Windows.Forms.Button btnLimpiar;
         private System.Windows.Forms.Button btnSalir;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label lbRespuestaNombre;
+        private System.Windows.Forms.Label lbRespuestaDni;
+        private System.Windows.Forms.Label lbRespuestaTelefono;
+        private System.Windows.Forms.Label lbRespuestaVehiculo;
     }
 }
 

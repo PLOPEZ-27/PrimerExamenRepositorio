@@ -24,6 +24,11 @@ namespace ExamenPrimeroDeEntornos
 
         private void btnVerResumen_Click(object sender, EventArgs e)
         {
+            string nombre = txtNombre.Text; ;
+            string Dni = txtIdentidad.Text;
+            string telefono = txtTelefono.Text;
+            string vehiculo = cbmVehiculo.Text;
+                
             if (txtNombre.Text == string.Empty)
             {
                 MessageBox.Show("ERROR. no hay ningun nombre registrado");
@@ -40,6 +45,16 @@ namespace ExamenPrimeroDeEntornos
             {
                 MessageBox.Show("ERROR. no hay ningun vehiuclo registrado");
             }
+
+            lbRespuestaNombre.Text = "Nombre: " + txtNombre.ToString();
+            lbRespuestaNombre.Text = nombre;
+            lbRespuestaDni.Text = "Dni: " + txtIdentidad.ToString();
+            lbRespuestaDni.Text = Dni;
+            lbRespuestaTelefono.Text = "Telefono: " + txtTelefono.ToString();
+            lbRespuestaTelefono.Text = telefono;
+            lbRespuestaVehiculo.Text = "Vehiculo: " + cbmVehiculo.ToString();
+            lbRespuestaVehiculo.Text = vehiculo;
+
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
